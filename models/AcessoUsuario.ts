@@ -1,0 +1,5 @@
+enum AcessoUsuario {
+    SIMPLES,
+    SUPER
+
+}
